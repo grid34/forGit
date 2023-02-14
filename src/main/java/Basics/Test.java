@@ -13,8 +13,11 @@ public class Test {
 		
 		System.out.println("3rd test");
 		System.out.println("2ndbranch");
+<<<<<<< HEAD
 		System.out.println("2ndbranch after ***");
 		
+=======
+>>>>>>> e79070c0029003fcd5a125234de4d362c7fae8fe
 	}
 	
 }
