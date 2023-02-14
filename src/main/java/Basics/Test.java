@@ -15,8 +15,6 @@ public class Test {
 		System.out.println("2ndbranch");
 
 		System.out.println("2ndbranch after ***");
-		
-
 	}
 	
 }
