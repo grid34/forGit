@@ -5,6 +5,7 @@ public class Test {
 	
 	public void help() {
 		System.out.println("hello");
+		System.out.println("after pushing");
 	}
 	
 }
